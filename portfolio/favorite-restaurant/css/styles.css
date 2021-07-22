@@ -1,0 +1,28 @@
+h1 {
+  font-family: sans-serif;
+  font-style: normal;
+  color: green;
+}
+h2 {
+  font-family: sans-serif;
+  color: red;
+}
+body {
+  font-family: fantasy;
+}
+ul {
+  font-family: sans-serif;
+  line-height: 40px;
+}
+intro {
+  font-style: italic;
+  font-family: sans-serif;
+}
+important {
+  font-family: fantasy;
+  font-style: normal;
+}
+unimportant{
+  font-family: sans-serif;
+  font-style: normal;
+}
