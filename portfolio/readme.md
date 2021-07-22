@@ -9,6 +9,12 @@ Styling done by CSS3. Layout done by HTML5.
 If you encounter any problems, please contact me at +254706279246
 ### Known Bugs
 Most, if not all of the site is functioning as a button for the previous function. If you know how to fix this, please fork this repository, and leave a comment on how to fix this.
+### Links
+Here are the links to my projects:
+Favorite Restaurant: https://github.com/tluther133/my-portfolio/favorite-restaurant.git
+Favorite Vacation Spot: https://github.com/tluther133/my-portfolio/favorite-vacation-spot.git
+Cottonwood Private Resort: https://github.com/tluther133/my-portfolio/private-island-resort.git
+Pet Journal: https://github.com/tluther133/my-portfolio/pet-website.git
 ### License
 *MIT License
 
